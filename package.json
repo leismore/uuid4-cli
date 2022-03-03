@@ -1,6 +1,6 @@
 {
   "name": "@leismore/uuid4-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command line tool to generate UUID version 4 codes.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
